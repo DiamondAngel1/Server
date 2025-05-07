@@ -1,0 +1,15 @@
+D:\Git\FirstProject\SimpleSocket\SimpleServer\bin\Debug\net8.0\SimpleServer.exe
+D:\Git\FirstProject\SimpleSocket\SimpleServer\bin\Debug\net8.0\SimpleServer.deps.json
+D:\Git\FirstProject\SimpleSocket\SimpleServer\bin\Debug\net8.0\SimpleServer.runtimeconfig.json
+D:\Git\FirstProject\SimpleSocket\SimpleServer\bin\Debug\net8.0\SimpleServer.dll
+D:\Git\FirstProject\SimpleSocket\SimpleServer\bin\Debug\net8.0\SimpleServer.pdb
+D:\Git\FirstProject\SimpleSocket\SimpleServer\obj\Debug\net8.0\SimpleServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\FirstProject\SimpleSocket\SimpleServer\obj\Debug\net8.0\SimpleServer.AssemblyInfoInputs.cache
+D:\Git\FirstProject\SimpleSocket\SimpleServer\obj\Debug\net8.0\SimpleServer.AssemblyInfo.cs
+D:\Git\FirstProject\SimpleSocket\SimpleServer\obj\Debug\net8.0\SimpleServer.csproj.CoreCompileInputs.cache
+D:\Git\FirstProject\SimpleSocket\SimpleServer\obj\Debug\net8.0\SimpleServer.sourcelink.json
+D:\Git\FirstProject\SimpleSocket\SimpleServer\obj\Debug\net8.0\SimpleServer.dll
+D:\Git\FirstProject\SimpleSocket\SimpleServer\obj\Debug\net8.0\refint\SimpleServer.dll
+D:\Git\FirstProject\SimpleSocket\SimpleServer\obj\Debug\net8.0\SimpleServer.pdb
+D:\Git\FirstProject\SimpleSocket\SimpleServer\obj\Debug\net8.0\SimpleServer.genruntimeconfig.cache
+D:\Git\FirstProject\SimpleSocket\SimpleServer\obj\Debug\net8.0\ref\SimpleServer.dll

@@ -1,0 +1,15 @@
+D:\Git\FirstProject\SimpleSocket\ClientSocket\bin\Debug\net8.0\ClientSocket.exe
+D:\Git\FirstProject\SimpleSocket\ClientSocket\bin\Debug\net8.0\ClientSocket.deps.json
+D:\Git\FirstProject\SimpleSocket\ClientSocket\bin\Debug\net8.0\ClientSocket.runtimeconfig.json
+D:\Git\FirstProject\SimpleSocket\ClientSocket\bin\Debug\net8.0\ClientSocket.dll
+D:\Git\FirstProject\SimpleSocket\ClientSocket\bin\Debug\net8.0\ClientSocket.pdb
+D:\Git\FirstProject\SimpleSocket\ClientSocket\obj\Debug\net8.0\ClientSocket.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\FirstProject\SimpleSocket\ClientSocket\obj\Debug\net8.0\ClientSocket.AssemblyInfoInputs.cache
+D:\Git\FirstProject\SimpleSocket\ClientSocket\obj\Debug\net8.0\ClientSocket.AssemblyInfo.cs
+D:\Git\FirstProject\SimpleSocket\ClientSocket\obj\Debug\net8.0\ClientSocket.csproj.CoreCompileInputs.cache
+D:\Git\FirstProject\SimpleSocket\ClientSocket\obj\Debug\net8.0\ClientSocket.sourcelink.json
+D:\Git\FirstProject\SimpleSocket\ClientSocket\obj\Debug\net8.0\ClientSocket.dll
+D:\Git\FirstProject\SimpleSocket\ClientSocket\obj\Debug\net8.0\refint\ClientSocket.dll
+D:\Git\FirstProject\SimpleSocket\ClientSocket\obj\Debug\net8.0\ClientSocket.pdb
+D:\Git\FirstProject\SimpleSocket\ClientSocket\obj\Debug\net8.0\ClientSocket.genruntimeconfig.cache
+D:\Git\FirstProject\SimpleSocket\ClientSocket\obj\Debug\net8.0\ref\ClientSocket.dll
