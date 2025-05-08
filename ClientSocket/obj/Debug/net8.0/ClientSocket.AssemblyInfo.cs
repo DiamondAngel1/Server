@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClientSocket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09246fab8d5d15f18ec6f85dbbbfb596dff5652b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+639bc2e2fbac41d2a2d2c24f6f0ec39f6f0cd1c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClientSocket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClientSocket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

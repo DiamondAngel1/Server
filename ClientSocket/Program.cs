@@ -6,7 +6,7 @@ using System.Text;
 Console.InputEncoding = Encoding.UTF8;
 Console.OutputEncoding = Encoding.UTF8;
 
-Console.WriteLine("Вкажіть IPсукмук:");
+Console.WriteLine("Вкажіть IP сервер:");
 var ip = IPAddress.Parse(Console.ReadLine());
 Console.WriteLine("Вкажіть порт:");
 var port = int.Parse(Console.ReadLine());
